@@ -3,7 +3,7 @@
 body { margin: 0; font-family: 'Montserrat', sans-serif; background-color: #060606; color: #ffffff; }
 header { display: flex; justify-content: space-between; align-items: center; padding: 20px 40px; background-color: #171717; border-bottom: 1px solid #333; }
 .logo { font-size: 1.8em; font-weight: bold; color: #a64ca6; transition: transform 0.9s; }
-.logo:hover { transform: scale(1.55); }
+.logo:hover { transform: scale(1.1); }
 nav ul { list-style: none; display: flex; gap: 20px; margin: 0; padding: 0; }
 nav a { color: #ffffff; text-decoration: none; font-size: 1em; transition: color 0.3s; }
 nav a:hover { color: #a64ca6; }
